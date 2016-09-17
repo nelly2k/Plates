@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76302f5d-2392-4007-8ec1-86417aa68c92" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testData/square.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/OpencvUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testData/someTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/services/FileServiceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/be_eliwan_jfaker_mockito_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/constant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pipeline/ImageProcessingPipeline.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/FilterService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/pipeline/ImageProcessingPipelineTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/pipeline/IntegrationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/services/filterServiceTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/services/OpencvUser.java" afterPath="$PROJECT_DIR$/src/common/OpencvUser.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MpPlates.iml" afterPath="$PROJECT_DIR$/MpPlates.iml" />
@@ -32,28 +36,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FileService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/services/FileService.java">
+      <file leaf-file-name="ImageProcessingPipelineTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/pipeline/ImageProcessingPipelineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1870#1871#0" expanded="true" />
-                <element signature="e#1930#1931#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileServiceTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/services/FileServiceTest.java">
+      <file leaf-file-name="constant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/constant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,8 +63,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -83,6 +83,14 @@
         <option value="$PROJECT_DIR$/testData/someTest.txt" />
         <option value="$PROJECT_DIR$/src/services/FileService.java" />
         <option value="$PROJECT_DIR$/tests/services/FileServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/constant.java" />
+        <option value="$PROJECT_DIR$/src/services/filterService.java" />
+        <option value="$PROJECT_DIR$/src/services/FilterService.java" />
+        <option value="$PROJECT_DIR$/tests/services/filterServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/common/OpencvUser.java" />
+        <option value="$PROJECT_DIR$/src/pipeline/ImageProcessingPipeline.java" />
+        <option value="$PROJECT_DIR$/tests/pipeline/ImageProcessingPipelineTest.java" />
+        <option value="$PROJECT_DIR$/tests/pipeline/IntegrationTests.java" />
       </list>
     </option>
   </component>
@@ -91,6 +99,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="55" />
@@ -105,7 +120,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -144,7 +159,81 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="be.eliwan:jfaker-mockito:0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pipeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testData" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -169,17 +258,24 @@
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="pipeline" />
       <recent name="services" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="common" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -188,20 +284,20 @@
       <recent name="C:\Dev\Labs\MpPlates\testData" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FileServiceTest.save_img">
-    <configuration default="false" name="FileServiceTest.loader_created" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IntegrationTests.pricessSimple_red">
+    <configuration default="false" name="ImageProcessingPipelineTest.pricessSimple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="services.*" />
+          <option name="PATTERN" value="pipeline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="MpPlates" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.FileServiceTest" />
-      <option name="METHOD_NAME" value="loader_created" />
+      <option name="PACKAGE_NAME" value="pipeline" />
+      <option name="MAIN_CLASS_NAME" value="pipeline.ImageProcessingPipelineTest" />
+      <option name="METHOD_NAME" value="pricessSimple" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -215,19 +311,19 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="FileServiceTest.image_loaded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ImageProcessingPipelineTest.pricessSimple_grayed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="services.*" />
+          <option name="PATTERN" value="pipeline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="MpPlates" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.FileServiceTest" />
-      <option name="METHOD_NAME" value="image_loaded" />
+      <option name="PACKAGE_NAME" value="pipeline" />
+      <option name="MAIN_CLASS_NAME" value="pipeline.ImageProcessingPipelineTest" />
+      <option name="METHOD_NAME" value="pricessSimple_grayed" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -241,19 +337,19 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="FileServiceTest.text_file_loaded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ImageProcessingPipelineTest.pricessSimple_do_noise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="services.*" />
+          <option name="PATTERN" value="pipeline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="MpPlates" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.FileServiceTest" />
-      <option name="METHOD_NAME" value="text_file_loaded" />
+      <option name="PACKAGE_NAME" value="pipeline" />
+      <option name="MAIN_CLASS_NAME" value="pipeline.ImageProcessingPipelineTest" />
+      <option name="METHOD_NAME" value="pricessSimple_do_noise" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -267,19 +363,19 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="FileServiceTest.image_loaded_as_mat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="IntegrationTests.pricessSimple_grayed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="services.*" />
+          <option name="PATTERN" value="pipeline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="MpPlates" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.FileServiceTest" />
-      <option name="METHOD_NAME" value="image_loaded_as_mat" />
+      <option name="PACKAGE_NAME" value="pipeline" />
+      <option name="MAIN_CLASS_NAME" value="pipeline.IntegrationTests" />
+      <option name="METHOD_NAME" value="pricessSimple_grayed" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -293,19 +389,19 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="FileServiceTest.save_img" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="IntegrationTests.pricessSimple_red" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="services.*" />
+          <option name="PATTERN" value="pipeline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="MpPlates" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.FileServiceTest" />
-      <option name="METHOD_NAME" value="save_img" />
+      <option name="PACKAGE_NAME" value="pipeline" />
+      <option name="MAIN_CLASS_NAME" value="pipeline.IntegrationTests" />
+      <option name="METHOD_NAME" value="pricessSimple_red" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -795,19 +891,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FileServiceTest.loader_created" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FileServiceTest.image_loaded" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FileServiceTest.text_file_loaded" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FileServiceTest.image_loaded_as_mat" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FileServiceTest.save_img" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ImageProcessingPipelineTest.pricessSimple" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ImageProcessingPipelineTest.pricessSimple_grayed" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ImageProcessingPipelineTest.pricessSimple_do_noise" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.IntegrationTests.pricessSimple_grayed" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.IntegrationTests.pricessSimple_red" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FileServiceTest.save_img" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FileServiceTest.image_loaded_as_mat" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FileServiceTest.text_file_loaded" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FileServiceTest.image_loaded" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FileServiceTest.loader_created" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.IntegrationTests.pricessSimple_red" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.IntegrationTests.pricessSimple_grayed" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ImageProcessingPipelineTest.pricessSimple_do_noise" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ImageProcessingPipelineTest.pricessSimple_grayed" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ImageProcessingPipelineTest.pricessSimple" />
       </list>
     </recent_temporary>
   </component>
@@ -830,44 +926,44 @@
       <option name="presentableId" value="Default" />
       <updated>1474094280546</updated>
       <workItem from="1474094289168" duration="1207000" />
-      <workItem from="1474095530601" duration="1220000" />
+      <workItem from="1474095530601" duration="5660000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileServiceTest_image_loaded_as_mat - 2016.09.17 at 15h 17m 21s.xml">
-      <configuration name="FileServiceTest.image_loaded_as_mat" configurationId="JUnit" />
+    <history-entry file="ImageProcessingPipelineTest_pricessSimple - 2016.09.17 at 16h 19m 50s.xml">
+      <configuration name="ImageProcessingPipelineTest.pricessSimple" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileServiceTest_save_img - 2016.09.17 at 15h 19m 04s.xml">
-      <configuration name="FileServiceTest.save_img" configurationId="JUnit" />
+    <history-entry file="ImageProcessingPipelineTest_pricessSimple_do_noise - 2016.09.17 at 16h 27m 01s.xml">
+      <configuration name="ImageProcessingPipelineTest.pricessSimple_do_noise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileServiceTest_text_file_loaded - 2016.09.17 at 15h 14m 14s.xml">
-      <configuration name="FileServiceTest.text_file_loaded" configurationId="JUnit" />
+    <history-entry file="ImageProcessingPipelineTest_pricessSimple_do_noise - 2016.09.17 at 16h 28m 08s.xml">
+      <configuration name="ImageProcessingPipelineTest.pricessSimple_do_noise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileServiceTest_text_file_loaded - 2016.09.17 at 15h 14m 33s.xml">
-      <configuration name="FileServiceTest.text_file_loaded" configurationId="JUnit" />
+    <history-entry file="ImageProcessingPipelineTest_pricessSimple_grayed - 2016.09.17 at 16h 20m 24s.xml">
+      <configuration name="ImageProcessingPipelineTest.pricessSimple_grayed" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileServiceTest_text_file_loaded - 2016.09.17 at 15h 15m 05s.xml">
-      <configuration name="FileServiceTest.text_file_loaded" configurationId="JUnit" />
+    <history-entry file="ImageProcessingPipelineTest_pricessSimple_grayed - 2016.09.17 at 16h 26m 16s.xml">
+      <configuration name="ImageProcessingPipelineTest.pricessSimple_grayed" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileServiceTest_text_file_loaded - 2016.09.17 at 15h 15m 27s.xml">
-      <configuration name="FileServiceTest.text_file_loaded" configurationId="JUnit" />
+    <history-entry file="IntegrationTests_pricessSimple_grayed - 2016.09.17 at 16h 32m 08s.xml">
+      <configuration name="IntegrationTests.pricessSimple_grayed" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileServiceTest_text_file_loaded - 2016.09.17 at 15h 15m 44s.xml">
-      <configuration name="FileServiceTest.text_file_loaded" configurationId="JUnit" />
+    <history-entry file="IntegrationTests_pricessSimple_red - 2016.09.17 at 16h 32m 41s.xml">
+      <configuration name="IntegrationTests.pricessSimple_red" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileServiceTest_text_file_loaded - 2016.09.17 at 15h 15m 58s.xml">
-      <configuration name="FileServiceTest.text_file_loaded" configurationId="JUnit" />
+    <history-entry file="filterServiceTest_NoiseReduction - 2016.09.17 at 15h 55m 07s.xml">
+      <configuration name="filterServiceTest.NoiseReduction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileServiceTest_text_file_loaded - 2016.09.17 at 15h 16m 21s.xml">
-      <configuration name="FileServiceTest.text_file_loaded" configurationId="JUnit" />
+    <history-entry file="filterServiceTest_toGray - 2016.09.17 at 15h 50m 37s.xml">
+      <configuration name="filterServiceTest.toGray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileServiceTest_text_file_loaded - 2016.09.17 at 15h 16m 29s.xml">
-      <configuration name="FileServiceTest.text_file_loaded" configurationId="JUnit" />
+    <history-entry file="filterServiceTest_toGray - 2016.09.17 at 15h 51m 03s.xml">
+      <configuration name="filterServiceTest.toGray" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2427000" />
+    <option name="totallyTimeSpent" value="6867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-8" width="1873" height="1096" extended-state="6" />
@@ -875,7 +971,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -887,6 +983,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -897,7 +994,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -912,7 +1008,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -926,8 +1024,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1870#1871#0" expanded="true" />
-            <element signature="e#1930#1931#0" expanded="true" />
+            <element signature="e#1896#1897#0" expanded="true" />
+            <element signature="e#1956#1957#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -939,14 +1037,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/OpencvUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,27 +1053,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/FileService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1870#1871#0" expanded="true" />
-            <element signature="e#1930#1931#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/outputData/fileServiceTestResult.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/FileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1896#1897#0" expanded="true" />
+            <element signature="e#1956#1957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/services/FileServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="285">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/OpencvUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/FilterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testData/red.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputData/red_simple.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/pipeline/IntegrationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeline/ImageProcessingPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/services/filterServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/pipeline/ImageProcessingPipelineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

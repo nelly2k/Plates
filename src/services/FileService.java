@@ -1,5 +1,6 @@
 package services;
 
+import common.OpencvUser;
 import org.opencv.core.Mat;
 import org.opencv.imgcodecs.Imgcodecs;
 

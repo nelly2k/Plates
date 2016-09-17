@@ -29,5 +29,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="be.eliwan:jfaker-mockito:0.1" level="project" />
   </component>
 </module>
