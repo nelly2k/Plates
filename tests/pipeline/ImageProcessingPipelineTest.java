@@ -13,9 +13,7 @@ public class ImageProcessingPipelineTest {
 
     @Before
     public void setUp() throws Exception {
-
         mockFilterService = mock(FilterService.class);
-
         imageProcessingPipeline = new ImageProcessingPipeline(mockFilterService);
     }
 
@@ -31,5 +29,19 @@ public class ImageProcessingPipelineTest {
         Mat mat = new Mat();
         imageProcessingPipeline.PricessSimple(mat);
         verify(mockFilterService, times(1)).ReduceNoise(anyObject(), anyInt());
+    }
+
+    @Test
+    public void pricessSimple_contrast() throws Exception {
+        Mat mat = new Mat();
+        imageProcessingPipeline.PricessSimple(mat);
+        verify(mockFilterService, times(1)).PixelTransform(anyObject(), anyInt(),anyInt());
+    }
+
+    @Test
+    public void pricessSimple_edge() throws Exception {
+        Mat mat = new Mat();
+        imageProcessingPipeline.PricessSimple(mat);
+        verify(mockFilterService, times(1)).EdgeDetection(anyObject());
     }
 }

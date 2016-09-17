@@ -2,10 +2,7 @@ package common;
 
 import org.opencv.core.Core;
 
-/**
- * Created by Nelli on 17/09/2016.
- */
-public class OpencvUser {
+public class OpencvUser extends BaseClass {
 
     static{ System.loadLibrary(Core.NATIVE_LIBRARY_NAME); }
 }

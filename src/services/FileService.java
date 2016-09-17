@@ -2,6 +2,7 @@ package services;
 
 import common.OpencvUser;
 import org.opencv.core.Mat;
+import org.opencv.core.Rect;
 import org.opencv.imgcodecs.Imgcodecs;
 
 import javax.imageio.ImageIO;
@@ -35,6 +36,27 @@ public class FileService extends OpencvUser {
         return sb.toString();
 
     }
+    public int[] LoadCoordinates(String path) throws IOException{
+        String txtPath = path.substring(0, path.length() - 4) + ".txt";
+        String[]params =  LoadText(txtPath).split(" ");
+        int[] result = new int[4];
+        for(int i = 0; i<4;i++){
+            result[i] = Integer.parseInt(params[i].trim());
+        }
+        return result;
+    }
+
+
+    public Rect LoadRect(String path) throws IOException{
+        String txtPath = path.substring(0, path.length() - 4) + ".txt";
+        String[]params =  LoadText(txtPath).split(" ");
+        int x1 = Integer.parseInt(params[0].trim());
+        int y1 = Integer.parseInt(params[1].trim());
+        int x2 = Integer.parseInt(params[2].trim());
+        int y2 = Integer.parseInt(params[3].trim());
+
+        return new Rect(x1,y1, x2-x1, y2-y1);
+    }
 
     public Mat LoadAsMatrix(String path) throws Exception{
         if (!IsFileExists(path)) throw new FileNotFoundException();
@@ -43,6 +65,7 @@ public class FileService extends OpencvUser {
         if(newImage.dataAddr()==0){
             throw new Exception ("Couldn't open file "+path);
         }
+      //  LOGGER.info("Loading file " + path);
 
         return newImage;
     }
@@ -62,12 +85,12 @@ public class FileService extends OpencvUser {
         ImageIO.write(img, "png", outputfile);
     }
 
-    public  static File[] GetFileList(String dirPath) {
+    public  static File[] GetFileList(String dirPath, String extention) {
         File dir = new File(dirPath);
 
         File[] fileList = dir.listFiles(new FilenameFilter() {
             public boolean accept(File dir, String name) {
-                return name.endsWith(".png");
+                return name.endsWith(extention);
             }
         });
         return fileList;
