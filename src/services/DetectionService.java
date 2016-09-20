@@ -34,5 +34,6 @@ public class DetectionService   extends OpencvUser {
         }
         return result;
     }
+
 }
 

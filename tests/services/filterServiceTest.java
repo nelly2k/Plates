@@ -69,8 +69,6 @@ public class filterServiceTest {
         Mat grayed =filterService.ToGray(half);
         Mat result = filterService.EdgeDetection(grayed);
         fileService.Save("testData/edge.png", result);
-
-
     }
 
 }

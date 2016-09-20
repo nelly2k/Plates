@@ -80,21 +80,23 @@ public class IntegrationTests {
             String fileName = file.getName();
             String filePath = "testData/train/" + fileName;
             Mat img= fileService.LoadAsMatrix(filePath);
-            Rect trainRect = fileService.LoadRect(filePath);
+
 
             Mat result = imageProcessingPipeline.PricessSimple(img);
             try{
                 Rect rect = featuresDetectionPipeline.DetectPlate(result);
-                LOGGER.info("Found [w:%1$d] [h:%1$d] ");
+               // LOGGER.info("Found [w:%1$d] [h:%1$d] ");
                 Mat plate = imageService.Crop(img, rect);
-                fileService.Save(TEST_OUTPUT + fileName , plate);
+                fileService.Save(TEST_OUTPUT  + "detected/" +  fileName , plate);
             }
             catch (DetectedManyException mex){
                 LOGGER.warning("Detected many on " + fileName);
+                fileService.Save(TEST_OUTPUT  + "many/" +  fileName , img);
                 manyCount++;
             }
             catch(DetectedNothingException nex){
                 LOGGER.warning("Detected nothing on " + fileName);
+                fileService.Save(TEST_OUTPUT  + "nothing/" +  fileName , img);
                 nothingCount++;
             }
 

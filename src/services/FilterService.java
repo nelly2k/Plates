@@ -1,12 +1,13 @@
 package services;
-
-
-import common.ImageAction;
 import common.OpencvUser;
-import org.opencv.core.CvType;
-import org.opencv.core.Mat;
-import org.opencv.core.Size;
+import org.opencv.core.*;
 import org.opencv.imgproc.Imgproc;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import static org.opencv.core.CvType.CV_8U;
+import static org.opencv.core.CvType.CV_8UC3;
 
 public class FilterService extends OpencvUser {
 
@@ -20,7 +21,7 @@ public class FilterService extends OpencvUser {
 
         Mat result = NewMat(source);
         Imgproc.medianBlur(source, result, ksize);
-
+        Imgproc.blur(result,result, new Size(5,5));
         return result;
     }
 
@@ -43,9 +44,11 @@ public class FilterService extends OpencvUser {
     public Mat EdgeDetection(Mat source){
         VerifyGray(source);
         Mat result = NewMat(source);
-        Imgproc.Sobel(source, result, -1, 1, 0);
+        Imgproc.Sobel(source, result,  CV_8U, 1, 0);
         return result;
     }
+
+
 
     public Mat EdgeDetection(Mat source, int dx, int dy){
         VerifyGray(source);
@@ -57,7 +60,7 @@ public class FilterService extends OpencvUser {
     public Mat Threshold(Mat source){
         VerifyGray(source);
         Mat result = NewMat(source);
-        Imgproc.threshold(source, result,127,255, Imgproc.THRESH_BINARY);
+        Imgproc.threshold(source, result,0,255, Imgproc.THRESH_BINARY + Imgproc.THRESH_OTSU);
         return result;
     }
 
@@ -70,7 +73,7 @@ public class FilterService extends OpencvUser {
 
     public Mat Close(Mat source){
         VerifyGray(source);
-        Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_RECT, new Size(18,18));
+        Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_RECT, new Size(23,2));
         Mat result = NewMat(source);
         Imgproc.morphologyEx(source, result, Imgproc.MORPH_CLOSE,structuralElement);
         return result;
@@ -92,7 +95,5 @@ public class FilterService extends OpencvUser {
         }
 
     }
-    private Mat NewMat(Mat img) {
-        return new Mat(img.height(), img.width(), CvType.CV_8UC1);
-    }
+
 }
