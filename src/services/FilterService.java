@@ -18,10 +18,9 @@ public class FilterService extends OpencvUser {
     }
 
     public Mat ReduceNoise(Mat source, int ksize ){
-
         Mat result = NewMat(source);
         Imgproc.medianBlur(source, result, ksize);
-        Imgproc.blur(result,result, new Size(5,5));
+        //Imgproc.blur(result,result, new Size(5,5));
         return result;
     }
 
@@ -48,15 +47,6 @@ public class FilterService extends OpencvUser {
         return result;
     }
 
-
-
-    public Mat EdgeDetection(Mat source, int dx, int dy){
-        VerifyGray(source);
-        Mat result = NewMat(source);
-        Imgproc.Sobel(source, result, -1, dx, dy);
-        return result;
-    }
-
     public Mat Threshold(Mat source){
         VerifyGray(source);
         Mat result = NewMat(source);
@@ -64,25 +54,9 @@ public class FilterService extends OpencvUser {
         return result;
     }
 
-    public Mat Threshold(Mat source,int threshold , int maxValue){
-        VerifyGray(source);
-        Mat result = NewMat(source);
-        Imgproc.threshold(source, result,threshold,maxValue, Imgproc.THRESH_BINARY);
-        return result;
-    }
-
     public Mat Close(Mat source){
         VerifyGray(source);
-        Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_RECT, new Size(23,2));
-        Mat result = NewMat(source);
-        Imgproc.morphologyEx(source, result, Imgproc.MORPH_CLOSE,structuralElement);
-        return result;
-    }
-
-
-    public Mat Close(Mat source, int kx, int ky){
-        VerifyGray(source);
-        Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_RECT, new Size(kx,ky));
+        Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_RECT, new Size(26,2));
         Mat result = NewMat(source);
         Imgproc.morphologyEx(source, result, Imgproc.MORPH_CLOSE,structuralElement);
         return result;

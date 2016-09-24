@@ -104,10 +104,13 @@ public class ColorService extends OpencvUser {
         int width = source.width();
         int height = source.height();
 
+        double[] test = result.get(10,10);
+
         for(int r =0; r<height; r++){
             for(int c = 0; c<width; c++){
-                if (IsEqual(rgbColor, source.get(r,c),5)){
-                    result.put(r,c,new int[]{0,0,0});
+                if (IsEqual(rgbColor, source.get(r,c),15)){
+
+                    result.put(r,c,new double[]{255, 255,255});
                 }
 
             }
@@ -115,15 +118,17 @@ public class ColorService extends OpencvUser {
         return result;
     }
 
-    public void GetColor(Mat source){
+    public double[] GetDominantColor(Mat source){
         List<Mat> channels = Split(source);
 
+        double[] result = new double[3];
         for(int i = 0; i< channels.size();i++){
             Mat hist = GetOneChannel(channels.get(i));
             Core.MinMaxLocResult mmr = Core.minMaxLoc(hist);
-            LOGGER.info("Chanel: " + i  + "Max: " + mmr.maxVal + " / " + mmr.maxLoc);
-
+            result[i] = mmr.maxLoc.y * 8;
+            //LOGGER.info("Chanel: " + i  + "Max: " + mmr.maxVal + " / " + mmr.maxLoc);
         }
+        return result;
     }
 
     public Mat GetOneChannel(Mat source){
@@ -155,12 +160,4 @@ public class ColorService extends OpencvUser {
         return planes;
     }
 
-    public Mat GetDominantColor(Mat rgbSource){
-        Mat source = ToHSV(rgbSource);
-        List<Mat> hsv_planes = new ArrayList<Mat>(3);
-        Core.split(source, hsv_planes);
-
-        return hsv_planes.get(2);
-
-    }
 }

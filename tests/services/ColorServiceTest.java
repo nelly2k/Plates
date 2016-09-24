@@ -16,14 +16,15 @@ public class ColorServiceTest extends BaseTest {
     private final String TEST_DATA_BLUE_PLATE = "testData/plate_blue.png";
     private ColorService colorService;
     private FileService fileService;
+    private FilterService filterService;
     private Mat plateImage;
 
     @Before
     public void setup() throws Exception {
         colorService = new ColorService();
         fileService = new FileService();
-
-        plateImage = fileService.LoadAsMatrix(TEST_DATA_BLUE_PLATE);
+        filterService = new FilterService();
+        plateImage = fileService.LoadAsMatrix(TEST_DATA_PLATE);
     }
 
     @Test
@@ -61,14 +62,16 @@ public class ColorServiceTest extends BaseTest {
 
     @Test
     public void Dominant(){
-        colorService.GetColor(plateImage);
+        colorService.GetDominantColor(plateImage);
     }
 
     @Test
     public void GetMask(){
-        Mat result = colorService.GenerateMask(plateImage);
-        fileService.Save(OUTPUT_PATH + "mask.png", result);
+       //double[] color = new double[]{240, 171,63};
+        double [] color= colorService.GetDominantColor(plateImage);
+        Mat plate = filterService.ReduceNoise(plateImage, 5);
+        double[] dominantColor = colorService.GetDominantColor(plateImage);
+        Mat result = colorService.GetMask(plate,color);
+        fileService.Save(OUTPUT_PATH + "mask1.png", result);
     }
-
-
 }

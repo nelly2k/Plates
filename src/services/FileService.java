@@ -40,6 +40,10 @@ public class FileService extends OpencvUser {
         String txtPath = path.substring(0, path.length() - 4) + ".txt";
         String[]params =  LoadText(txtPath).split(" ");
         int[] result = new int[4];
+        if (params.length <= 1){
+            return result;
+        }
+
         for(int i = 0; i<4;i++){
             result[i] = Integer.parseInt(params[i].trim());
         }
@@ -85,15 +89,22 @@ public class FileService extends OpencvUser {
         ImageIO.write(img, "png", outputfile);
     }
 
-    public  static File[] GetFileList(String dirPath, String extention) {
+    public  File[] GetFileList(String dirPath, String extention) {
         File dir = new File(dirPath);
+        return dir.listFiles((dir1, name) ->extention=="" || name.endsWith(extention));
+    }
 
-        File[] fileList = dir.listFiles(new FilenameFilter() {
-            public boolean accept(File dir, String name) {
-                return name.endsWith(extention);
-            }
-        });
-        return fileList;
+    public  File[] GetFileList(String dirPath) {
+        return GetFileList(dirPath, "");
+    }
+
+    public void ClearFolder(String path){
+        File[] files = GetFileList(path);
+        if (files == null)
+            return;
+        for(File file: files){
+            file.delete();
+        }
     }
 
 
