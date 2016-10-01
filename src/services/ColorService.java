@@ -12,6 +12,13 @@ import static org.opencv.core.CvType.CV_8UC3;
 
 public class ColorService extends OpencvUser {
 
+
+    private Mat ToGray(Mat source){
+        Mat result = NewMat(source);
+        Imgproc.cvtColor(source, result, Imgproc.COLOR_RGB2GRAY);
+        return result;
+    }
+
     private Mat ToHSV(Mat source){
         Mat result = NewMat(source);
         Imgproc.cvtColor(source, result, Imgproc.COLOR_RGB2HSV);
@@ -116,6 +123,13 @@ public class ColorService extends OpencvUser {
             }
         }
         return result;
+    }
+
+    public Mat GrayHist(Mat source){
+        Mat gray = ToGray(source);
+
+        return GetOneChannel(gray);
+
     }
 
     public double[] GetDominantColor(Mat source){

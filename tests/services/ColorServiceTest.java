@@ -67,11 +67,29 @@ public class ColorServiceTest extends BaseTest {
 
     @Test
     public void GetMask(){
-       //double[] color = new double[]{240, 171,63};
+
         double [] color= colorService.GetDominantColor(plateImage);
         Mat plate = filterService.ReduceNoise(plateImage, 5);
         double[] dominantColor = colorService.GetDominantColor(plateImage);
         Mat result = colorService.GetMask(plate,color);
         fileService.Save(OUTPUT_PATH + "mask1.png", result);
     }
+//
+//    public void GetColor() throws Exception{
+//        Mat nonPlate = fileService.LoadAsMatrix(TEST_DATA + "nonplate_POST2.png");
+//        List<Mat>nonPlateChannels = colorService.Split(nonPlate);
+//        for(int i =0; i< nonPlateChannels.size();i++){
+//            Mat hist = colorService.GetOneChannel(nonPlateChannels.get(i));
+//            Core.MinMaxLocResult
+//
+//        }
+//
+//
+//
+//        Mat plate = fileService.LoadAsMatrix(TEST_DATA_PLATE);
+//
+//
+//
+//    }
+
 }

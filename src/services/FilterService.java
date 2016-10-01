@@ -62,12 +62,13 @@ public class FilterService extends OpencvUser {
         return result;
     }
 
-    private void VerifyGray(Mat source){
-        double[] pixel = source.get(0,0);
-        if (pixel.length !=1){
-            throw new IllegalArgumentException("Image should be converted to grayscale first");
-        }
-
+    public Mat Close(Mat source, int hor, int ver){
+        VerifyGray(source);
+        Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_RECT, new Size(hor,ver));
+        Mat result = NewMat(source);
+        Imgproc.morphologyEx(source, result, Imgproc.MORPH_CLOSE,structuralElement);
+        return result;
     }
+
 
 }

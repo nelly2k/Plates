@@ -24,8 +24,10 @@ public class DetectionService   extends OpencvUser {
 
         for(MatOfPoint contour :contours){
             Rect rect = Imgproc.boundingRect(contour);
+          //  LOGGER.info("Rect  width: " + rect.width + " height: " + rect.height);
             Boolean good = true;
                 for(BoundingFilter filter : filters){
+
                     good = good && filter.Filter(rect);
                 }
             if (good){

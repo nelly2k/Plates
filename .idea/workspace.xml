@@ -2,230 +2,465 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76302f5d-2392-4007-8ec1-86417aa68c92" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/nonplate_POST.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ABC000.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1AMX024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1AOB843.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1BEU630.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1BKN083.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1BLO759.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1BLY950.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1BSP279.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1BWS267.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1CGU556.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1CSY839.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1CUR752.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1CVE469.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1CWF390.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1CWG537.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1CWT476.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1CWY827.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1CZZ099.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DAA731.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DAK127.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DAR252.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DAS181.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DEI876.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DEJ141.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DEJ393.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DHP638.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DND577.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DOM562.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DOW184.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DRG041.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DSJ101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DTT303.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DUG719.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DUR097.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DWL749.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DWU665.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DXD205.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DXQ873.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1DXS597.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EAA634.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EDW925.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EEF756.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EEQ380.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EFN099.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EGX614.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EHT309.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EHV719.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EJK528.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ELD429.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EMI623.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EMM901.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ENK172.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EON352.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EOR189.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EPY701.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EQO127.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EQR518.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ERC289.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ERD703.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ERE889.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ERH726.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ERM723.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ERQ820.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ERU542.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ESB040.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ETL327.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1ETT298.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EWC479.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1EXH762.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_a_1GBK811.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_b_034TEC.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_b_1527.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_b_615CFC.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_b_AUTDOM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_b_BSN273F.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_b_JEANSCAR.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_b_KM39673.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_b_MH45966.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/many/plate_type_b_SNQQPY.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BMD088.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BOK125.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BTM467.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CYE065.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1DNC078.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1DRO675.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ACB968.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ACB968.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/Container.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/ExtractionService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/common/BaseTestResolved.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/pipeline/FeaturesDetectionPipelineTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/services/ExtractionServiceTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/nonplate_POST2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ABC0002.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ACB968.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1AMM653.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1AMX024.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1AOB843.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BEI491.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BEU630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BEU6301.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BEU6302.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BFI2741.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BFI2742.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLY9501.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BMD0881.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BOK1251.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BSP2791.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BSR344.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTH5471.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTM4671.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTM4672.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BWS267.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BWZ364.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CAS898.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CAS8981.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CGU556.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CGU5562.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CIQ539.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CPG967.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CPG9671.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CPG9672.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CQN616.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CUR752.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CUR7522.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CUR7523.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWF390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWF3903.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWT4762.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWY8271.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZD599.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZR914.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAK1271.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAR2522.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAR2523.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEI876.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEJ1412.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEJ1413.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEX141.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DHP6381.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DHS741.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DLZ4291.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOM562.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOM5621.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOT5441.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOW184.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOW1841.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO5411.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO5413.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRG0412.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRG0413.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRO675.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTH424.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTT3032.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUR0973.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUU0171.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWU6653.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DYH442.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DZX185.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBF9361.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDW9251.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDW9254.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EEF756.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EEF7562.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EEQ380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFN099.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFN0992.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMM9013.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOR189.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOR1892.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPY701.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQD948.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQG441.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQG4411.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQO1272.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQR5182.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQR5183.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERU542.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ESB0401.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EXH7623.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_1527.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_615CFC2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BWR041.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BWR041/plate_type_a_1BWR0410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BWR041/plate_type_a_1BWR0411.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BWR041/plate_type_a_1BWR0412.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BWR041/plate_type_a_1BWR0413.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BWR041/plate_type_a_1BWR0414.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BWR041/plate_type_a_1BWR0415.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BWR041/plate_type_a_1BWR0416.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1BWR041/plate_type_a_1BWR041contours.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CLK628/plate_type_a_1CLK6280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CLK628/plate_type_a_1CLK6281.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CLK628/plate_type_a_1CLK6282.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CLK628/plate_type_a_1CLK6283.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CLK628/plate_type_a_1CLK6284.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CLK628/plate_type_a_1CLK6285.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CLK628/plate_type_a_1CLK6286.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CLK628/plate_type_a_1CLK628contours.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CNP600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CNP600/plate_type_a_1CNP6000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CNP600/plate_type_a_1CNP6001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CNP600/plate_type_a_1CNP6002.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CNP600/plate_type_a_1CNP6003.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CNP600/plate_type_a_1CNP6004.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CNP600/plate_type_a_1CNP6005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CNP600/plate_type_a_1CNP6006.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputData/nothing/plate_type_a_1CNP600/plate_type_a_1CNP600contours.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/nonplate_POST.png" afterPath="$PROJECT_DIR$/outputData/detected/nonplate_POST.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/nonplate_POST1.png" afterPath="$PROJECT_DIR$/outputData/detected/nonplate_POST1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ABC000.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ABC000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ABC0001.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ABC0001.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ACB9681.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ACB9681.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1AHX238.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1AHX238.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ALG653.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ALG653.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1AMM653.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1AMM653.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1AMM6531.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1AMM6531.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ANH948.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ANH948.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1APH193.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1APH193.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ASK114.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ASK114.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BEF973.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BEF973.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BEI491.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BEI491.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BFI274.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BFI274.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BFK915.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BFK915.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BHW874.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BHW874.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BIC235.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BIC235.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BKA913.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BKA913.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BKN083.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BKN083.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BKN0831.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BKN0831.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLO759.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLO759.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLO7591.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLO7591.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLO7592.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLO7592.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLY950.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLY950.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLY9502.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLY9502.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLY9503.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BLY9503.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BMD088.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BMD088.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BNS419.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BNS419.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BOK125.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BOK125.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BPJ076.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BPJ076.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BSR344.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BSR344.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BSP279.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BSP279.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTH547.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTH547.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTM467.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTM467.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTM4673.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTM4673.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTU930.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BTU930.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BWZ364.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BWZ364.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BYH843.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1BYH843.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CAS898.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CAS898.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CDU432.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CDU432.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CFY613.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CFY613.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CGU5561.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CGU5561.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CHK723.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CHK723.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CIJ523.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CIJ523.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CIQ539.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CIQ539.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CKI182.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CKI182.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CMT618.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CMT618.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1COD076.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1COD076.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1COD287.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1COD287.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CPG967.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CPG967.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CQN616.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CQN616.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CSY839.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CSY839.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CSY8391.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CSY8391.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CUR7521.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CUR7521.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CUR7524.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CUR7524.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CVE469.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CVE469.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CVE4691.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CVE4691.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CVK315.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CVK315.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CVK3151.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CVK3151.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWF3901.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWF3901.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWF3902.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWF3902.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWF3904.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWF3904.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWG537.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWG537.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWT476.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWT476.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWT4761.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWT4761.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWY827.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CWY827.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CXD882.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CXD882.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CXD8821.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CXD8821.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CXT369.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CXT369.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZD599.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZD599.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZR914.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZR914.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CYE065.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CYE065.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZR9141.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZR9141.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZZ099.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZZ099.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZZ0991.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1CZZ0991.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAA731.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAA731.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAA7311.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAA7311.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAK127.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAK127.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAK1272.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAK1272.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAK1273.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAK1273.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAR252.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAR252.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAR2521.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAR2521.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAR2524.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAR2524.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAS181.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAS181.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAS1811.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DAS1811.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DBC619.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DBC619.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DBC6191.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DBC6191.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DBL588.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DBL588.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DBM517.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DBM517.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEF342.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEF342.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEH127.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEH127.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEX141.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEX141.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEI8761.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEI8761.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEJ141.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEJ141.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEJ1411.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEJ1411.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEJ393.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DEJ393.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DFG997.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DFG997.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DGA582.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DGA582.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DGL600.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DGL600.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DGY984.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DGY984.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DHS741.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DHS741.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DHP638.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DHP638.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DHP6382.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DHP6382.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DIO551.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DIO551.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DLT966.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DLT966.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DLZ429.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DLZ429.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNC078.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNC078.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNC0781.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNC0781.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DND577.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DND577.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DND5771.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DND5771.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DND5772.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DND5772.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DND5773.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DND5773.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNI069.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNI069.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNI0691.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNI0691.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNI0692.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNI0692.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNZ300.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DNZ300.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOM5622.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOM5622.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOT544.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOT544.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOW1842.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DOW1842.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPB459.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPB459.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO541.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO541.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO5412.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO5412.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO5414.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO5414.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO5415.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DPO5415.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRG041.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRG041.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRG0411.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRG0411.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRG0414.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRG0414.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRU892.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRU892.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRU8921.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DRU8921.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DSJ101.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DSJ101.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DSZ666.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DSZ666.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTH424.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTH424.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTH4241.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTH4241.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTP706.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTP706.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTT303.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTT303.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTT3031.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTT3031.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTT3033.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTT3033.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTU263.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DTU263.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUG719.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUG719.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUG7191.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUG7191.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUG7192.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUG7192.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUR097.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUR097.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUR0971.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUR0971.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUR0972.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUR0972.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUU017.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DUU017.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWI753.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWI753.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWL749.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWL749.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWL7491.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWL7491.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWU665.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWU665.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWU6651.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWU6651.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWU6652.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DWU6652.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXD205.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXD205.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXM628.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXM628.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DYH442.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DYH442.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXQ873.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXQ873.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXQ8731.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXQ8731.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXQ8732.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXQ8732.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXS597.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXS597.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXS5971.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXS5971.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXS5972.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DXS5972.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DYS063.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DYS063.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DZX185.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DZX185.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DZX1851.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1DZX1851.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA634.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA634.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA6341.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA6341.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA6342.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA6342.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA6343.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA6343.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA6344.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EAA6344.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBF936.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBF936.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBF9362.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBF9362.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBF9363.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBF9363.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBH568.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBH568.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBH5681.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EBH5681.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDC876.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDC876.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDN708.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDN708.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDW925.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDW925.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDW9252.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDW9252.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDW9253.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EDW9253.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EEF7561.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EEF7561.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EEQ3801.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EEQ3801.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFE191.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFE191.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFE1911.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFE1911.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFI693.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFI693.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFI6931.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFI6931.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFI6932.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFI6932.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFN0991.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFN0991.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFQ658.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFQ658.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFQ666.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFQ666.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFZ425.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EFZ425.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EGX614.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EGX614.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EGX6141.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EGX6141.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHE157.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHE157.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHE1571.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHE1571.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHK792.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHK792.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHK7921.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHK7921.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHT309.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHT309.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHT3091.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHT3091.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHV719.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHV719.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHV7191.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EHV7191.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EJK528.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EJK528.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EKA294.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EKA294.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EKC652.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EKC652.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EKH669.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EKH669.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EKN365.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EKN365.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ELD429.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ELD429.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ELD4291.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ELD4291.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ELD4292.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ELD4292.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ELK245.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ELK245.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMB375.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMB375.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMB3751.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMB3751.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMI623.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMI623.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMI6231.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMI6231.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMM901.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMM901.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMM9011.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMM9011.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMM9012.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMM9012.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMM9014.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EMM9014.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENB393.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENB393.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENB461.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENB461.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENK172.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENK172.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENK1721.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENK1721.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENR107.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENR107.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENR1071.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ENR1071.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EON352.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EON352.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EON3521.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EON3521.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOR1891.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOR1891.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOR1893.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOR1893.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOR1894.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOR1894.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOV411.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EOV411.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPG214.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPG214.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPG2141.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPG2141.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPG287.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPG287.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPG2871.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPG2871.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPI863.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPI863.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQD948.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQD948.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQG441.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQG441.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPY7011.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EPY7011.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQD9481.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQD9481.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQI780.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQI780.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQO127.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQO127.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQO1271.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQO1271.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQR518.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQR518.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQR5181.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EQR5181.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC289.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC289.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC2891.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC2891.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC2892.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC2892.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC2893.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC2893.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC2894.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERC2894.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD703.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD703.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7031.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7031.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7032.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7032.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7033.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7033.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7034.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7034.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7035.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERD7035.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERE889.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERE889.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERE8891.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERE8891.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERH726.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERH726.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERH7261.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERH7261.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERM723.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERM723.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERQ820.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERQ820.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERQ8201.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERQ8201.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERQ8202.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERQ8202.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERR867.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERR867.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERU5421.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ERU5421.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ESB040.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ESB040.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ESB0402.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ESB0402.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ESU220.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ESU220.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETL327.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETL327.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETL3271.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETL3271.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETL3272.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETL3272.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETL3273.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETL3273.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETO680.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETO680.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETT298.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETT298.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETT2981.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETT2981.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETT2982.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETT2982.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETU939.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1ETU939.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EUX421.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EUX421.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EVC612.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EVC612.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWC479.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWC479.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWC4791.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWC4791.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWF119.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWF119.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWJ954.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWJ954.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWP776.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWP776.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWP7761.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWP7761.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWX883.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EWX883.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EXH762.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EXH762.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EXH7621.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EXH7621.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EXH7622.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EXH7622.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EYK449.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EYK449.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EYU221.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EYU221.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EZA536.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EZA536.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EZR410.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1EZR410.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1GBK811.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1GBK811.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1GBK8111.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1GBK8111.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_a_1GBK8112.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_a_1GBK8112.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC1.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC2.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC3.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC4.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_034TEC4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_15271.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_15271.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_15272.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_15272.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_615CFC.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_615CFC.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_615CFC1.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_615CFC1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_9AO879.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_9AO879.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_AL46WA.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_AL46WA.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_AU13869.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_AU13869.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_AU30242.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_AU30242.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_AUTDOM.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_AUTDOM.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_BSN273F.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_BSN273F.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_BSN273F1.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_BSN273F1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_BY68389.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_BY68389.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_BY92096.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_BY92096.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA1.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA2.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA3.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA4.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA6.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_CO91WA6.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_FJA910.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_FJA910.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_JD079.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_JD079.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_JD0791.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_JD0791.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_JD0792.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_JD0792.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_JEANSCAR.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_JEANSCAR.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_JEANSCAR1.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_JEANSCAR1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_JP27WA.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_JP27WA.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM37163.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM37163.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM39673.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM39673.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM396731.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM396731.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM396732.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM396732.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM396733.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM396733.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM39887.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_KM39887.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_MH45966.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_MH45966.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_MH459661.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_MH459661.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_MH98867.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_MH98867.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_NARNIEK.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_NARNIEK.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_SNQQPY.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_SNQQPY.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_SNQQPY1.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_SNQQPY1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_SQ15302.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_SQ15302.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_SQ16191.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_SQ16191.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_VIK777.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_VIK777.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_VIK7771.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_VIK7771.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_XAS888.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_XAS888.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_XAS8881.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_XAS8881.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/detected/plate_type_b_XR5FOCUS.png" afterPath="$PROJECT_DIR$/outputData/detected/plate_type_b_XR5FOCUS.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outputData/mask.png" afterPath="$PROJECT_DIR$/outputData/mask.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/Constant.java" afterPath="$PROJECT_DIR$/src/common/Constant.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/DetectedManyException.java" afterPath="$PROJECT_DIR$/src/common/DetectedManyException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/OpencvUser.java" afterPath="$PROJECT_DIR$/src/common/OpencvUser.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pipeline/FeaturesDetectionPipeline.java" afterPath="$PROJECT_DIR$/src/pipeline/FeaturesDetectionPipeline.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pipeline/ImageProcessingPipeline.java" afterPath="$PROJECT_DIR$/src/pipeline/ImageProcessingPipeline.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/ColorService.java" afterPath="$PROJECT_DIR$/src/services/ColorService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/FileService.java" afterPath="$PROJECT_DIR$/src/services/FileService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/DetectionService.java" afterPath="$PROJECT_DIR$/src/services/DetectionService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/FilterService.java" afterPath="$PROJECT_DIR$/src/services/FilterService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/ImageService.java" afterPath="$PROJECT_DIR$/src/services/ImageService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/common/BaseTest.java" afterPath="$PROJECT_DIR$/tests/common/BaseTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/pipeline/IntegrationTests.java" afterPath="$PROJECT_DIR$/tests/pipeline/IntegrationTests.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/services/ColorServiceTest.java" afterPath="$PROJECT_DIR$/tests/services/ColorServiceTest.java" />
     </list>
@@ -249,21 +484,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FileService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/services/FileService.java">
+      <file leaf-file-name="ColorService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/ColorService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FilterService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/services/FilterService.java">
+      <file leaf-file-name="ColorServiceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/services/ColorServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="58" column="94" selection-start-line="58" selection-start-column="94" selection-end-line="58" selection-end-column="94" />
+            <state relative-caret-position="76">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/common/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseTestResolved.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/common/BaseTestResolved.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -271,16 +526,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageProcessingPipeline.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pipeline/ImageProcessingPipeline.java">
+      <file leaf-file-name="ExtractionServiceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/services/ExtractionServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+            <state relative-caret-position="408">
+              <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeatureDetector.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/features2d/FeatureDetector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtractionService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/services/ExtractionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
               <folding>
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#585#586#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -289,51 +561,11 @@
       <file leaf-file-name="IntegrationTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/pipeline/IntegrationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/services/ImageService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="15" column="140" selection-start-line="15" selection-start-column="140" selection-end-line="15" selection-end-column="140" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DetectionService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/services/DetectionService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="25" column="54" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FeaturesDetectionPipeline.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pipeline/FeaturesDetectionPipeline.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+            <state relative-caret-position="114">
+              <caret line="108" column="64" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2622#2639#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constant.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/common/Constant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -380,21 +612,26 @@
         <option value="$PROJECT_DIR$/src/services/BoundingFilter.java" />
         <option value="$PROJECT_DIR$/src/common/BaseClass.java" />
         <option value="$PROJECT_DIR$/tests/pipeline/Permutations.java" />
-        <option value="$PROJECT_DIR$/src/services/DetectionService.java" />
         <option value="$PROJECT_DIR$/tests/services/filterServiceTest.java" />
         <option value="$PROJECT_DIR$/tests/BaseTest.java" />
-        <option value="$PROJECT_DIR$/tests/common/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/services/ColorService.java" />
-        <option value="$PROJECT_DIR$/tests/services/ColorServiceTest.java" />
         <option value="$PROJECT_DIR$/src/common/DetectedManyException.java" />
-        <option value="$PROJECT_DIR$/src/common/OpencvUser.java" />
         <option value="$PROJECT_DIR$/src/services/FileService.java" />
         <option value="$PROJECT_DIR$/src/pipeline/ImageProcessingPipeline.java" />
-        <option value="$PROJECT_DIR$/src/services/FilterService.java" />
-        <option value="$PROJECT_DIR$/src/services/ImageService.java" />
-        <option value="$PROJECT_DIR$/tests/pipeline/IntegrationTests.java" />
+        <option value="$PROJECT_DIR$/tests/common/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/pipeline/FeaturesDetectionPipeline.java" />
+        <option value="$PROJECT_DIR$/tests/pipeline/FeaturesDetectionPipelineTest.java" />
+        <option value="$PROJECT_DIR$/tests/services/ColorServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/services/DetectionService.java" />
         <option value="$PROJECT_DIR$/src/common/Constant.java" />
+        <option value="$PROJECT_DIR$/src/services/ColorService.java" />
+        <option value="$PROJECT_DIR$/tests/pipeline/IntegrationTests.java" />
+        <option value="$PROJECT_DIR$/src/services/FilterService.java" />
+        <option value="$PROJECT_DIR$/src/common/OpencvUser.java" />
+        <option value="$PROJECT_DIR$/src/services/ImageService.java" />
+        <option value="$PROJECT_DIR$/src/services/Container.java" />
+        <option value="$PROJECT_DIR$/tests/common/BaseTestResolved.java" />
+        <option value="$PROJECT_DIR$/tests/services/ExtractionServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/services/ExtractionService.java" />
       </list>
     </option>
   </component>
@@ -412,9 +649,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
+    <option name="x" value="54" />
     <option name="y" value="-8" />
-    <option name="width" value="1873" />
+    <option name="width" value="1874" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -443,11 +680,78 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MpPlates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -470,98 +774,20 @@
       <recent name="services" />
       <recent name="pipeline" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Dev\Labs\MpPlates\testData" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="common" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Dev\Labs\MpPlates\testData" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\Labs\MpPlates\testData" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.IntegrationTests.detectPlateBulk">
-    <configuration default="false" name="ColorServiceTest.Dominant" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="MpPlates" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.ColorServiceTest" />
-      <option name="METHOD_NAME" value="Dominant" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="ColorServiceTest.split" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="MpPlates" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.ColorServiceTest" />
-      <option name="METHOD_NAME" value="split" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="ColorServiceTest.GetMask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="MpPlates" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.ColorServiceTest" />
-      <option name="METHOD_NAME" value="GetMask" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.ExtractionServiceTest.getSiftKeypoints">
     <configuration default="false" name="IntegrationTests.detectPlateBulk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -601,6 +827,84 @@
       <option name="PACKAGE_NAME" value="pipeline" />
       <option name="MAIN_CLASS_NAME" value="pipeline.IntegrationTests" />
       <option name="METHOD_NAME" value="replayNothing" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="FeaturesDetectionPipelineTest.identifyPlateByDominantColorNoPlate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pipeline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MpPlates" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="pipeline" />
+      <option name="MAIN_CLASS_NAME" value="pipeline.FeaturesDetectionPipelineTest" />
+      <option name="METHOD_NAME" value="identifyPlateByDominantColorNoPlate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="FeaturesDetectionPipelineTest.identifyPlateByDominantColor1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pipeline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MpPlates" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="pipeline" />
+      <option name="MAIN_CLASS_NAME" value="pipeline.FeaturesDetectionPipelineTest" />
+      <option name="METHOD_NAME" value="identifyPlateByDominantColor1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExtractionServiceTest.getSiftKeypoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MpPlates" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.ExtractionServiceTest" />
+      <option name="METHOD_NAME" value="getSiftKeypoints" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1090,19 +1394,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ColorServiceTest.Dominant" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ColorServiceTest.split" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ColorServiceTest.GetMask" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.IntegrationTests.detectPlateBulk" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.IntegrationTests.replayNothing" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.IntegrationTests.detectPlateBulk" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.IntegrationTests.replayNothing" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FeaturesDetectionPipelineTest.identifyPlateByDominantColorNoPlate" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FeaturesDetectionPipelineTest.identifyPlateByDominantColor1" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ExtractionServiceTest.getSiftKeypoints" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.IntegrationTests.detectPlateBulk" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.IntegrationTests.replayNothing" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ColorServiceTest.GetMask" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ColorServiceTest.Dominant" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ColorServiceTest.split" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ExtractionServiceTest.getSiftKeypoints" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.IntegrationTests.detectPlateBulk" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.IntegrationTests.replayNothing" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FeaturesDetectionPipelineTest.identifyPlateByDominantColorNoPlate" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FeaturesDetectionPipelineTest.identifyPlateByDominantColor1" />
       </list>
     </recent_temporary>
   </component>
@@ -1131,48 +1435,50 @@
       <workItem from="1474504257632" duration="519000" />
       <workItem from="1474607397862" duration="675000" />
       <workItem from="1474621105176" duration="7499000" />
-      <workItem from="1474702544693" duration="5597000" />
+      <workItem from="1474702544693" duration="14528000" />
+      <workItem from="1475281884776" duration="21000" />
+      <workItem from="1475282212420" duration="3071000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntegrationTests_detectPlateBulk - 2016.09.24 at 17h 17m 46s.xml">
-      <configuration name="IntegrationTests.detectPlateBulk" configurationId="JUnit" />
+    <history-entry file="ExtractionServiceTest_getSiftKeypoints - 2016.10.01 at 09h 21m 15s.xml">
+      <configuration name="ExtractionServiceTest.getSiftKeypoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegrationTests_detectPlateBulk - 2016.09.24 at 17h 20m 03s.xml">
-      <configuration name="IntegrationTests.detectPlateBulk" configurationId="JUnit" />
+    <history-entry file="ExtractionServiceTest_getSiftKeypoints - 2016.10.01 at 09h 24m 28s.xml">
+      <configuration name="ExtractionServiceTest.getSiftKeypoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegrationTests_detectPlateBulk - 2016.09.24 at 17h 34m 02s.xml">
-      <configuration name="IntegrationTests.detectPlateBulk" configurationId="JUnit" />
+    <history-entry file="ExtractionServiceTest_getSiftKeypoints - 2016.10.01 at 09h 25m 36s.xml">
+      <configuration name="ExtractionServiceTest.getSiftKeypoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegrationTests_detectPlateBulk - 2016.09.24 at 17h 36m 39s.xml">
-      <configuration name="IntegrationTests.detectPlateBulk" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntegrationTests_replayNothing - 2016.09.24 at 17h 14m 20s.xml">
+    <history-entry file="IntegrationTests_replayNothing - 2016.09.26 at 13h 39m 32s.xml">
       <configuration name="IntegrationTests.replayNothing" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegrationTests_replayNothing - 2016.09.24 at 17h 20m 30s.xml">
+    <history-entry file="IntegrationTests_replayNothing - 2016.09.26 at 13h 41m 36s.xml">
       <configuration name="IntegrationTests.replayNothing" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegrationTests_replayNothing - 2016.09.24 at 17h 24m 49s.xml">
+    <history-entry file="IntegrationTests_replayNothing - 2016.09.26 at 13h 44m 45s.xml">
       <configuration name="IntegrationTests.replayNothing" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegrationTests_replayNothing - 2016.09.24 at 17h 28m 29s.xml">
+    <history-entry file="IntegrationTests_replayNothing - 2016.09.26 at 13h 45m 14s.xml">
       <configuration name="IntegrationTests.replayNothing" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegrationTests_replayNothing - 2016.09.24 at 17h 29m 23s.xml">
+    <history-entry file="IntegrationTests_replayNothing - 2016.09.26 at 13h 46m 02s.xml">
       <configuration name="IntegrationTests.replayNothing" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegrationTests_replayNothing - 2016.09.24 at 17h 35m 13s.xml">
+    <history-entry file="IntegrationTests_replayNothing - 2016.09.26 at 13h 46m 58s.xml">
+      <configuration name="IntegrationTests.replayNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTests_replayNothing - 2016.09.26 at 13h 47m 39s.xml">
       <configuration name="IntegrationTests.replayNothing" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49175000" />
+    <option name="totallyTimeSpent" value="61198000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-8" width="1873" height="1096" extended-state="0" />
-    <editor active="true" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1181,24 +1487,24 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31440163" sideWeight="0.1459343" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.31440163" sideWeight="0.8540657" order="2" side_tool="false" content_ui="tabs" x="1920" y="264" width="1378" height="937" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.31440163" sideWeight="0.8540657" order="2" side_tool="false" content_ui="tabs" x="1920" y="264" width="1378" height="937" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15993538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1598493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35091278" sideWeight="0.8056004" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.35091278" sideWeight="0.8056004" order="3" side_tool="false" content_ui="tabs" x="1920" y="264" width="1378" height="937" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1214,7 +1520,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="34" />
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1223,99 +1529,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputData/cropped.png" />
-    <entry file="file://$PROJECT_DIR$/tests/services/ImageServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/DetectedNothingException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/BoundingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputData/plate.png" />
-    <entry file="file://$PROJECT_DIR$/testData/rects.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/logging/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="1578" column="23" selection-start-line="1578" selection-start-column="16" selection-end-line="1578" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/core/CvType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputData/real_simple.png" />
-    <entry file="file://$PROJECT_DIR$/outputData/detected/plate_type_a_1ALG653.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputData/detected/plate_type_a_1BSR344.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputData/detected/plate_type_a_1BYH843.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputData/detected/plate_type_a_1CIQ539.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/pipeline/Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputData/detected/plate_type_a_1ACB968.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputData/plateHist.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/services/filterServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="797">
           <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1340,7 +1557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="44" column="20" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1364,27 +1580,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/imgproc/Imgproc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17423">
-          <caret line="934" column="47" selection-start-line="934" selection-start-column="47" selection-end-line="934" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/core/Mat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20463">
           <caret line="1079" column="0" selection-start-line="1079" selection-start-column="0" selection-end-line="1079" selection-end-column="0" />
-          <folding>
-            <element signature="e#17162#17163#0" expanded="false" />
-            <element signature="e#17201#17202#0" expanded="false" />
-            <element signature="e#24658#24659#0" expanded="false" />
-            <element signature="e#24687#24688#0" expanded="false" />
-            <element signature="e#24741#24742#0" expanded="false" />
-            <element signature="e#24770#24771#0" expanded="false" />
-            <element signature="e#24847#24848#0" expanded="false" />
-            <element signature="e#24879#24880#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1393,19 +1592,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/common/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="499" column="0" selection-start-line="499" selection-start-column="0" selection-end-line="499" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1442,6 +1632,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/core/Rect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/pipeline/ImageProcessingPipelineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeline/ImageProcessingPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/DetectedNothingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputData/identifiedNoPlate.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testData/plate_type_a_1DUG719.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputData/identifiedPlate.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testData/plate_type_a_1DUG7191.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputData/identifiedPlateMask.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputData/identifiedPlateRects.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/pipeline/FeaturesDetectionPipelineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/core/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="2168" column="0" selection-start-line="2168" selection-start-column="0" selection-end-line="2168" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeline/FeaturesDetectionPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/imgproc/Imgproc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="2547" column="72" selection-start-line="2547" selection-start-column="72" selection-end-line="2547" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/FileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/common/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1450,129 +1740,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/features2d/Features2d.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="37" column="85" selection-start-line="37" selection-start-column="77" selection-end-line="37" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/common/OpencvUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/core/Rect.java">
+    <entry file="file://$PROJECT_DIR$/src/services/BoundingFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/ColorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="154" column="5" selection-start-line="154" selection-start-column="5" selection-end-line="154" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/services/ColorServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1939#1940#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/pipeline/ImageProcessingPipelineTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/FileService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeline/ImageProcessingPipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-          <folding>
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/FilterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="58" column="94" selection-start-line="58" selection-start-column="94" selection-end-line="58" selection-end-column="94" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/services/DetectionService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="25" column="54" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="54" />
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/ColorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/services/ColorServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/FilterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/services/ImageService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="140" selection-start-line="15" selection-start-column="140" selection-end-line="15" selection-end-column="140" />
+        <state relative-caret-position="322">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/pipeline/IntegrationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
+        <state relative-caret-position="114">
+          <caret line="108" column="64" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
+          <folding>
+            <element signature="e#2622#2639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="405" column="13" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeline/FeaturesDetectionPipeline.java">
+    <entry file="file://$PROJECT_DIR$/src/services/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+        <state relative-caret-position="594">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#451#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/common/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/common/BaseTestResolved.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/Constant.java">
+    <entry file="file://$PROJECT_DIR$/tests/services/ExtractionServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        <state relative-caret-position="408">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Tools/opencv/build/java/opencv-310.jar!/org/opencv/features2d/FeatureDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/ExtractionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
