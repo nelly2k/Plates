@@ -3,6 +3,7 @@ package pipeline;
 import org.junit.Before;
 import org.junit.Test;
 import org.opencv.core.Mat;
+import services.ColorService;
 import services.FilterService;
 import static org.mockito.Mockito.*;
 
@@ -14,7 +15,7 @@ public class ImageProcessingPipelineTest {
     @Before
     public void setUp() throws Exception {
         mockFilterService = mock(FilterService.class);
-        imageProcessingPipeline = new ImageProcessingPipeline(mockFilterService);
+        imageProcessingPipeline = new ImageProcessingPipeline(mockFilterService, new ColorService());
     }
 
     @Test

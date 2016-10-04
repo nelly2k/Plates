@@ -1,6 +1,5 @@
 package services;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import common.OpencvUser;
 import org.opencv.core.*;
 import org.opencv.imgproc.Imgproc;
@@ -22,6 +21,12 @@ public class ColorService extends OpencvUser {
     private Mat ToHSV(Mat source){
         Mat result = NewMat(source);
         Imgproc.cvtColor(source, result, Imgproc.COLOR_RGB2HSV);
+        return result;
+    }
+
+    public Mat EqulizeHistogram(Mat src){
+        Mat result = NewMat(src);
+        Imgproc.equalizeHist(src, result);
         return result;
     }
 
@@ -140,7 +145,6 @@ public class ColorService extends OpencvUser {
             Mat hist = GetOneChannel(channels.get(i));
             Core.MinMaxLocResult mmr = Core.minMaxLoc(hist);
             result[i] = mmr.maxLoc.y * 8;
-            //LOGGER.info("Chanel: " + i  + "Max: " + mmr.maxVal + " / " + mmr.maxLoc);
         }
         return result;
     }

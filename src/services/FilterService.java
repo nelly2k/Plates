@@ -20,7 +20,7 @@ public class FilterService extends OpencvUser {
     public Mat ReduceNoise(Mat source, int ksize ){
         Mat result = NewMat(source);
         Imgproc.medianBlur(source, result, ksize);
-        //Imgproc.blur(result,result, new Size(5,5));
+
         return result;
     }
 
@@ -54,6 +54,13 @@ public class FilterService extends OpencvUser {
         return result;
     }
 
+    public Mat ThresholdInv(Mat source){
+        VerifyGray(source);
+        Mat result = NewMat(source);
+        Imgproc.threshold(source, result,0,255, Imgproc.THRESH_BINARY_INV + Imgproc.THRESH_OTSU);
+        return result;
+    }
+
     public Mat Close(Mat source){
         VerifyGray(source);
         Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_RECT, new Size(26,2));
@@ -67,6 +74,22 @@ public class FilterService extends OpencvUser {
         Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_RECT, new Size(hor,ver));
         Mat result = NewMat(source);
         Imgproc.morphologyEx(source, result, Imgproc.MORPH_CLOSE,structuralElement);
+        return result;
+    }
+
+      public Mat Open(Mat source, int hor, int ver){
+        VerifyGray(source);
+        Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_CROSS, new Size(hor,ver));
+        Mat result = NewMat(source);
+        Imgproc.morphologyEx(source, result, Imgproc.MORPH_OPEN,structuralElement);
+        return result;
+    }
+
+    public Mat Erode(Mat source, int hor, int ver){
+        VerifyGray(source);
+        Mat structuralElement = Imgproc.getStructuringElement(Imgproc.MORPH_ELLIPSE, new Size(hor,ver));
+        Mat result = NewMat(source);
+        Imgproc.morphologyEx(source, result, Imgproc.MORPH_ERODE,structuralElement);
         return result;
     }
 

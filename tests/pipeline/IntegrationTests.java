@@ -1,48 +1,24 @@
 package pipeline;
 
+import common.BaseTestResolved;
 import common.DetectedManyException;
 import common.DetectedNothingException;
-import org.junit.Before;
 import org.junit.Test;
 import org.opencv.core.Mat;
 import org.opencv.core.MatOfPoint;
 import org.opencv.core.Rect;
 import org.opencv.imgproc.Imgproc;
-import services.*;
 
 import java.io.File;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.logging.Logger;
 
-public class IntegrationTests {
-
-    protected static final Logger LOGGER = Logger.getLogger( "Info");
+public class IntegrationTests extends BaseTestResolved {
 
     private final String TEST_DATA_RED = "testData/red.png";
     private final String TEST_DATA_TRAIN_1 = "testData/train/plate_type_a_1ABC000.png";
     private final String TEST_OUTPUT = "outputData/";
-
-    private FilterService filterService;
-    private FileService fileService;
-    private DetectionService detectionService;
-    private ImageService imageService;
-
-    private ImageProcessingPipeline imageProcessingPipeline;
-    private FeaturesDetectionPipeline featuresDetectionPipeline;
-
-
-    @Before
-    public void setUp() throws Exception {
-        fileService = new FileService();
-        filterService = new FilterService();
-        detectionService = new DetectionService();
-        imageService = new ImageService();
-
-        imageProcessingPipeline = new ImageProcessingPipeline(filterService);
-        featuresDetectionPipeline = new FeaturesDetectionPipeline(detectionService, new ColorService(), filterService);
-    }
 
     @Test
     public void processSimple_red() throws Exception {
@@ -183,7 +159,7 @@ public class IntegrationTests {
                 LOGGER.info("not detected");
             }
 
-            List<MatOfPoint> contours = detectionService.DetectRectangles(lastImg);
+            List<MatOfPoint> contours = detectionService.DetectContours(lastImg);
             for(MatOfPoint contour: contours ){
                 Rect rect = Imgproc.boundingRect(contour);
                 imageService.Rect(source, rect);
@@ -193,4 +169,32 @@ public class IntegrationTests {
         }
 
     }
+
+    @Test
+    public void Task2() throws Exception {
+
+        String sourcePath = "testData/task2/";
+        String targetPath = "outputData/task2/";
+
+        fileService.ClearFolder(targetPath);
+        File[] files = fileService.GetFileList(sourcePath, ".png");
+        for (File file : files) {
+            Mat src = fileService.LoadAsMatrix(sourcePath + file.getName());
+
+            try {
+
+
+                Mat processedImg = imageProcessingPipeline.ProcessForBinaryAnalysis(src);
+                List<Rect> rects = featuresDetectionPipeline.DetectChar(processedImg);
+
+                List<Mat> chars = imageService.Crop(src, rects);
+
+                fileService.Save(targetPath + file.getName(), chars);
+            } catch (DetectedNothingException ex) {
+                LOGGER.info("Nothing detected on " + file.getName());
+            }
+
+        }
+    }
+
 }

@@ -8,6 +8,7 @@ import org.opencv.imgcodecs.Imgcodecs;
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.*;
+import java.util.List;
 
 public class FileService extends OpencvUser {
 
@@ -82,6 +83,17 @@ public class FileService extends OpencvUser {
 
     public void Save(String path,Mat mat){
         Imgcodecs.imwrite(path, mat);
+    }
+
+    public void Save(String path, List<Mat> srcs){
+
+        int counter =0;
+        for(Mat src:srcs){
+            String filename = path.substring(0, path.length() - 4) + "_"+ counter + path.substring(path.length()-4, path.length());
+            Imgcodecs.imwrite(filename, src);
+            counter++;
+        }
+
     }
 
     public void Save(String path, BufferedImage  img ) throws IOException {

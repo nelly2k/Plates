@@ -36,7 +36,8 @@ DetectionService detectionService;
         filterService = new FilterService();
         colorService = new ColorService();
         detectionService = new DetectionService();
-        featuresDetectionPipeline = new FeaturesDetectionPipeline(new DetectionService(), new ColorService(), new FilterService());
+        featuresDetectionPipeline = new FeaturesDetectionPipeline(new DetectionService(), new ColorService(),
+                new FilterService(), new ImageService());
     }
 
     @Test

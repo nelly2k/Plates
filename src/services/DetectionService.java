@@ -12,7 +12,7 @@ import java.util.List;
 public class DetectionService   extends OpencvUser {
 
 
-    public  List<MatOfPoint> DetectRectangles(Mat source){
+    public  List<MatOfPoint> DetectContours(Mat source){
         List<MatOfPoint> contours = new ArrayList<>();
         Mat im2 = new Mat();
         Imgproc.findContours(source, contours, im2, Imgproc.RETR_EXTERNAL, Imgproc.CHAIN_APPROX_NONE);
@@ -35,6 +35,19 @@ public class DetectionService   extends OpencvUser {
             }
         }
         return result;
+    }
+
+    public Mat DetectLines(Mat src){
+        VerifyGray(src);
+
+        Mat cannyResult = NewMat(src);
+        Imgproc.Canny(src, cannyResult, 80, 100);
+
+        Mat lines = new Mat();
+
+        Imgproc.HoughLines(cannyResult, lines, 1, Math.PI/180, (int) (src.width()*0.5));
+
+        return lines;
     }
 
 }

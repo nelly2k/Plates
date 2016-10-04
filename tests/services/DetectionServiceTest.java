@@ -7,7 +7,6 @@ import org.opencv.core.MatOfPoint;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Filter;
 
 import static org.junit.Assert.*;
 
@@ -59,7 +58,7 @@ public class DetectionServiceTest {
     private List<MatOfPoint> getMatOfPoints() throws Exception {
         Mat rects = fileService.LoadAsMatrix(TEST_DATA_RECTANGLES);
         rects = filterService.ToGray(rects);
-        return detectionService.DetectRectangles(rects);
+        return detectionService.DetectContours(rects);
     }
 
 }
